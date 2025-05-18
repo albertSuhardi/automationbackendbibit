@@ -1,0 +1,8 @@
+com/bibit/tests/BibitUpdateTest.class
+com/bibit/tests/BibitPostTest.class
+com/bibit/utils/ReportUtility.class
+com/bibit/base/BaseApiTest.class
+com/bibit/tests/BibitDeleteTest.class
+com/bibit/tests/BibitTestSuite.class
+com/bibit/tests/BibitGetTest.class
+com/bibit/tests/ApiBibit.class
