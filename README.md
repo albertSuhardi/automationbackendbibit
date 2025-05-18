@@ -12,3 +12,4 @@ tests : stored actual test cases that user created
 
 
 type "mvn clean -Dtest=com.bibit.tests.BibitTestSuite test" in terminal, code will running
+go to target ExtentReport.html for detail report
