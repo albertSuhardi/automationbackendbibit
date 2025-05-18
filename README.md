@@ -4,7 +4,7 @@ Visual Code :
 - Choose Maven 
 - Choose Maven Quickstart
 
-in Pom xml, copy past or import this library that can you get from here "link"
+in Pom xml, copy past or import this library that can you get from here "https://github.com/albertSuhardi/automationbackendbibit/blob/main/pom.xml"
 in test/java/com/bibit make 3 directory 
 base  : for store/save base or abstract class that reused multiple times when creating test case
 utils : store helper class or method in reusable task
