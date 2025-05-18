@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.bibit.tests.BibitTestSuite" time="3.746" tests="4" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.bibit.tests.BibitTestSuite" time="4.052" tests="4" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="23"/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
@@ -12,7 +12,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="ID"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk-23.jdk/Contents/Home/lib"/>
-    <property name="sun.java.command" value="/Users/bytedance/Documents/Project/bibittest/target/surefire/surefirebooter6063341209603694090.jar /Users/bytedance/Documents/Project/bibittest/target/surefire 2025-05-18T19-23-06_980-jvmRun1 surefire10293123901377564680tmp surefire_03525564840806002229tmp"/>
+    <property name="sun.java.command" value="/Users/bytedance/Documents/Project/bibittest/target/surefire/surefirebooter17913352768600466831.jar /Users/bytedance/Documents/Project/bibittest/target/surefire 2025-05-19T01-11-20_570-jvmRun1 surefire14715808201381101075tmp surefire_09721486786924678735tmp"/>
     <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="jdk.debug" value="release"/>
     <property name="test" value="com.bibit.tests.BibitTestSuite"/>
@@ -30,7 +30,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="apple.awt.application.name" value="ForkedBooter"/>
-    <property name="surefire.real.class.path" value="/Users/bytedance/Documents/Project/bibittest/target/surefire/surefirebooter6063341209603694090.jar"/>
+    <property name="surefire.real.class.path" value="/Users/bytedance/Documents/Project/bibittest/target/surefire/surefirebooter17913352768600466831.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.runtime.version" value="23.0.1+11-39"/>
@@ -58,8 +58,8 @@
     <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.class.version" value="67.0"/>
   </properties>
-  <testcase name="bibitPost" classname="com.bibit.tests.BibitPostTest" time="1.72"/>
-  <testcase name="bibitUpdate" classname="com.bibit.tests.BibitUpdateTest" time="0.808"/>
-  <testcase name="bibitGet" classname="com.bibit.tests.BibitGetTest" time="0.136"/>
-  <testcase name="bibitDelete" classname="com.bibit.tests.BibitDeleteTest" time="0.76"/>
+  <testcase name="bibitPost" classname="com.bibit.tests.BibitPostTest" time="2.057"/>
+  <testcase name="bibitUpdate" classname="com.bibit.tests.BibitUpdateTest" time="0.804"/>
+  <testcase name="bibitGet" classname="com.bibit.tests.BibitGetTest" time="0.135"/>
+  <testcase name="bibitDelete" classname="com.bibit.tests.BibitDeleteTest" time="0.764"/>
 </testsuite>
